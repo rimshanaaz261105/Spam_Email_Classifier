@@ -1,19 +1,61 @@
 # Spam Email Classifier
 
-This project uses Machine Learning to classify messages as Spam or Not Spam.
+## Overview
 
-## Technologies
-- Python
-- Pandas
-- Scikit-learn
+This project is an AI-powered Spam Email Classifier developed using Python and Machine Learning.
 
-## ML Techniques
-- TF-IDF Vectorizer
-- Naive Bayes
+The application predicts whether a message is Spam or Not Spam using Natural Language Processing techniques.
 
-## Accuracy
-96%
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* Scikit-learn
+* CustomTkinter
+
+---
+
+## Machine Learning Concepts
+
+* TF-IDF Vectorizer
+* Naive Bayes Algorithm
+* Text Classification
+
+---
 
 ## Features
-- User input prediction
-- Spam detection
+
+* Modern futuristic GUI
+* Real-time spam prediction
+* Confidence score display
+* Interactive desktop application
+* Professional AI dashboard design
+
+---
+
+## Dataset
+
+SMS Spam Collection Dataset
+
+---
+
+## Accuracy
+
+Achieved approximately 96% accuracy.
+
+---
+
+## Future Improvements
+
+* Add Deep Learning model
+* Deploy as web application
+* Add email integration
+* Improve UI animations
+
+---
+
+## Author
+
+AI Internship Project - Kodbud
